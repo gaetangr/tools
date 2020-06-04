@@ -7,7 +7,7 @@ Just copy/paste into your code, they will run one after the other
 
     black --line-length 79 -t py37 -S .
 
-    flake8 -rc .
+    flake8
     
  ## Informations about the modules
    
