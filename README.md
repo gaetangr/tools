@@ -15,3 +15,14 @@ Just copy/paste into your code, they will run one after the other
 - **Docformatter** : Docformatter currently automatically formats docstrings to follow a subset of the PEP 257 conventions
 - **Black** : Black is the uncompromising Python code formatter.
 - **Flake8** : The modular source code checker
+
+## Pip install the modules
+Just copy/paste into your code, they will be installed one after the other
+
+    pip install isort
+    
+    pip install docformatter.
+
+    pip install black
+
+    pip install flake8
