@@ -5,47 +5,42 @@ One Paragraph of project description goes here
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step that tell you how to get my code up and running 
-
-First Make sure to have Python 3x installed on your computer
+Make sure to have Python 3x installed on your computer
 Run the following in your command prompt
 ```
 python
 ```
+I used Python 3.8.0 to built this program
 
-Clone my repo
+### Installing
+
+A step by step that tell you how to get my code up and running :
+
+- Clone my repo
 
 ```
 git clone https://github.com/Mcflan-7/[project]
 ```
 
-Set up your virtual environnement (using venv for this example, any will do)
+- Set up your virtual environnement (using venv for this example, any will do)
 
 ```
 python -m venv venv
 ```
-Activate your virtual environement with
+- Activate your virtual environement with
  `source venv/Scripts/activate` on windows 
  `source venv/bin/activate` on MacOS
 
-Install the requirement with
+- Install the requirement with
 
 ```
 pip install -r requirements.txt
 ```
-Launch the programme 
+- Launch the programme 
 
 ```
 [to be defined]
@@ -54,14 +49,14 @@ Launch the programme
 
 ### Coding style and tools for formating
 
-I try to stick to the PEP 8 -- Style Guide for Python Code as most as I can, to format my code I use those tools
+I try to stick to the -PEP 8 -- Style Guide for Python Code- as most as I can, to format my code I use those tools
 
 ```
-isort -rc .
+isort
 
-docformatter --recursive --in-place .
+docformatter
 
-black --line-length 79 -t py37 -S .
+black
 
 flake8
 ```
@@ -73,7 +68,7 @@ flake8
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us, any help is appreciate it ! 
  
 ## Authors
 
