@@ -1,6 +1,10 @@
+.env
 venv/
 .vscode/
 db.sqlite3
 __pycache__/
 CACHE/
-.env
+db/
+.gitignore
+Pipfile*
+sqlite3.db
